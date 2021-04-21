@@ -77,11 +77,33 @@ p
     padding: 20px;
 }
 
+/*Programming page*/
+#ivy 
+{
+    padding: 20px;
+    border: 1px solid white;
+}
+
 /*Game Audio page*/
 #nest 
 {
     padding: 20px;
+    border: 1px solid white;
 }
+
+#udk 
+{
+    padding: 20px;
+    border: 1px solid white;
+}
+
+#bioshock 
+{
+    padding: 20px;
+    border: 1px solid white;
+}
+
+
 
 @media screen and (max-width: 550px)
 {
