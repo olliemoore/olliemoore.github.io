@@ -116,6 +116,17 @@ p
         font-size: 10px;
     }
 
+    #ivy
+    {
+        width: 500px;
+    }
+
+    #ivyimage
+    {
+        width: 398px;
+        height: 36px;
+    }
+
     #nest
     {
         width: 500px;
